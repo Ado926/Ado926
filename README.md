@@ -13,13 +13,14 @@
 - 🧠 Cada línea de código es un paso más.
 - ⏳ Paciencia + Café = progreso.
 - ✨ Gracias por leer esta wea, xd
+- 💥 Me gustan los bugs... cuando no rompen todo :V
 
 ---
 
-### Mis herramientas favoritas:
+### Cosas que uso (o intento usar bien):
 
-- 🤖 WhatsApp Bots
-  
+✏️ **Javascript**
+- 🤖 **Bots para WhatsApp** 
 
 ---
 
@@ -30,10 +31,23 @@
 ---
 
 ### Curiosidad innecesaria:
-- A veces rompo el bot por accidente... y aprendo arreglándolo XD
+- A veces rompo el bot por accidente...  
+  Perooo el bug me enseña más que un tutorial XD
 
 ---
 
 <p align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="gif teclado" />
 </p>
+
+---
+
+### Bonus: mi espíritu animal cuando el código no corre
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WXB88TeARFVvi/giphy.gif" width="180" alt="hamster loco" />
+</p>
+
+---
+
+<p align="center"><b> Weno Chau 🚀</b></p>
